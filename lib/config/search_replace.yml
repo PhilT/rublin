@@ -1,0 +1,10 @@
+ignore:
+  - coverage
+  - db
+  - doc
+  - .git
+  - log
+  - tmp
+  - vendor
+  - .yardoc
+
