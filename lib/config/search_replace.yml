@@ -1,3 +1,5 @@
+# File patterns (regex) or folders to ignore in search or replace calls
+
 ignore:
   - coverage
   - db
